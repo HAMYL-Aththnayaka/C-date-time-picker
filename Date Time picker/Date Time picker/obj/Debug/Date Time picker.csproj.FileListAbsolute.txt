@@ -1,0 +1,10 @@
+D:\man\Date Time picker\Date Time picker\bin\Debug\Date Time picker.exe.config
+D:\man\Date Time picker\Date Time picker\bin\Debug\Date Time picker.exe
+D:\man\Date Time picker\Date Time picker\bin\Debug\Date Time picker.pdb
+D:\man\Date Time picker\Date Time picker\obj\Debug\Date Time picker.csproj.AssemblyReference.cache
+D:\man\Date Time picker\Date Time picker\obj\Debug\Date_Time_picker.Form1.resources
+D:\man\Date Time picker\Date Time picker\obj\Debug\Date_Time_picker.Properties.Resources.resources
+D:\man\Date Time picker\Date Time picker\obj\Debug\Date Time picker.csproj.GenerateResource.cache
+D:\man\Date Time picker\Date Time picker\obj\Debug\Date Time picker.csproj.CoreCompileInputs.cache
+D:\man\Date Time picker\Date Time picker\obj\Debug\Date Time picker.exe
+D:\man\Date Time picker\Date Time picker\obj\Debug\Date Time picker.pdb
